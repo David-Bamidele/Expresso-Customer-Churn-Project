@@ -5,7 +5,7 @@ import pandas as pd
 import joblib
 
 # Load the pre-trained model
-model = joblib.load(r"expressoModel.pkl")  
+model = joblib.load("expressoModel.pkl")  
 
 # Set up the Streamlit app
 st.title('Expresso Client Churn Prediction')
