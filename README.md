@@ -33,6 +33,8 @@ The **Expresso Churn Prediction App** is built using Python and leverages **Stre
 
 - `Expresso_Churn_Prediction_Streamlit_App.py`: The main application file for Streamlit.
 - `requirements.txt`: Lists the dependencies required to run the app.
+- `Expresso_Churn_main.csv`: The dataset that was used for this project
+
 
 ## License
 
